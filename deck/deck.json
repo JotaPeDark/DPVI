@@ -1,0 +1,799 @@
+{
+  "commander": {
+    "name": "Sheoldred, the Apocalypse",
+    "manaCost": "{2}{B}{B}",
+    "type": "Legendary Creature — Phyrexian Praetor",
+    "rarity": "Mythic",
+    "text": "Deathtouch\nWhenever you draw a card, you gain 2 life.\nWhenever an opponent draws a card, they lose 2 life.",
+    "power": "4",
+    "toughness": "5"
+  },
+  "cards": [
+    {
+      "name": "Afflict",
+      "manaCost": "{2}{B}",
+      "type": "Instant",
+      "rarity": "Common",
+      "text": "Target creature gets -1/-1 until end of turn.\nDraw a card."
+    },
+    {
+      "name": "Agonizing Memories",
+      "manaCost": "{2}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order."
+    },
+    {
+      "name": "Ascendant Evincar",
+      "manaCost": "{4}{B}{B}",
+      "type": "Legendary Creature — Phyrexian Vampire Noble",
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nOther black creatures get +1/+1.\nNonblack creatures get -1/-1.",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Ascendant Evincar",
+      "manaCost": "{4}{B}{B}",
+      "type": "Legendary Creature — Phyrexian Vampire Noble",
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nOther black creatures get +1/+1.\nNonblack creatures get -1/-1.",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Assassinate",
+      "manaCost": "{2}{B}",
+      "type": "Sorcery",
+      "rarity": "Common",
+      "text": "Destroy target tapped creature."
+    },
+    {
+      "name": "Beacon of Unrest",
+      "manaCost": "{3}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Rare",
+      "text": "Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library."
+    },
+    {
+      "name": "Bog Wraith",
+      "manaCost": "{3}{B}",
+      "type": "Creature — Wraith",
+      "rarity": "Uncommon",
+      "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Bog Wraith",
+      "manaCost": "{3}{B}",
+      "type": "Creature — Wraith",
+      "rarity": "Uncommon",
+      "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Consume Spirit",
+      "manaCost": "{X}{1}{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life."
+    },
+    {
+      "name": "Contaminated Bond",
+      "manaCost": "{1}{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Common",
+      "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature attacks or blocks, its controller loses 3 life."
+    },
+    {
+      "name": "Contaminated Bond",
+      "manaCost": "{1}{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Common",
+      "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature attacks or blocks, its controller loses 3 life."
+    },
+    {
+      "name": "Cruel Edict",
+      "manaCost": "{1}{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Target opponent sacrifices a creature."
+    },
+    {
+      "name": "Deathmark",
+      "manaCost": "{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Destroy target green or white creature."
+    },
+    {
+      "name": "Diabolic Tutor",
+      "manaCost": "{2}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Search your library for a card, put that card into your hand, then shuffle."
+    },
+    {
+      "name": "Distress",
+      "manaCost": "{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Common",
+      "text": "Target player reveals their hand. You choose a nonland card from it. That player discards that card."
+    },
+    {
+      "name": "Doomed Necromancer",
+      "manaCost": "{2}{B}",
+      "type": "Creature — Human Cleric Mercenary",
+      "rarity": "Rare",
+      "text": "{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Dross Crocodile",
+      "manaCost": "{3}{B}",
+      "type": "Creature — Zombie Crocodile",
+      "rarity": "Common",
+      "power": "5",
+      "toughness": "1"
+    },
+    {
+      "name": "Drudge Skeletons",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Skeleton",
+      "rarity": "Uncommon",
+      "text": "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Drudge Skeletons",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Skeleton",
+      "rarity": "Uncommon",
+      "text": "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Drudge Skeletons",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Skeleton",
+      "rarity": "Uncommon",
+      "text": "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Drudge Skeletons",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Skeleton",
+      "rarity": "Uncommon",
+      "text": "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Dusk Imp",
+      "manaCost": "{2}{B}",
+      "type": "Creature — Imp",
+      "rarity": "Common",
+      "text": "Flying",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "name": "Dusk Imp",
+      "manaCost": "{2}{B}",
+      "type": "Creature — Imp",
+      "rarity": "Common",
+      "text": "Flying",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "name": "Essence Drain",
+      "manaCost": "{4}{B}",
+      "type": "Sorcery",
+      "rarity": "Common",
+      "text": "Essence Drain deals 3 damage to any target and you gain 3 life."
+    },
+    {
+      "name": "Fear",
+      "manaCost": "{B}{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Common",
+      "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)"
+    },
+    {
+      "name": "Fear",
+      "manaCost": "{B}{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Common",
+      "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)"
+    },
+    {
+      "name": "Festering Goblin",
+      "manaCost": "{B}",
+      "type": "Creature — Zombie Goblin",
+      "rarity": "Common",
+      "text": "When Festering Goblin dies, target creature gets -1/-1 until end of turn.",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Grave Pact",
+      "manaCost": "{1}{B}{B}{B}",
+      "type": "Enchantment",
+      "rarity": "Rare",
+      "text": "Whenever a creature you control dies, each other player sacrifices a creature."
+    },
+    {
+      "name": "Graveborn Muse",
+      "manaCost": "{2}{B}{B}",
+      "type": "Creature — Zombie Spirit",
+      "rarity": "Rare",
+      "text": "At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Gravedigger",
+      "manaCost": "{3}{B}",
+      "type": "Creature — Zombie",
+      "rarity": "Common",
+      "text": "When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Hate Weaver",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Zombie Wizard",
+      "rarity": "Uncommon",
+      "text": "{2}: Target blue or red creature gets +1/+0 until end of turn.",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "name": "Head Games",
+      "manaCost": "{3}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Rare",
+      "text": "Target opponent puts the cards from their hand on top of their library. Search that player's library for that many cards. The player puts those cards into their hand, then shuffles."
+    },
+    {
+      "name": "Hidden Horror",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Horror",
+      "rarity": "Uncommon",
+      "text": "When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Highway Robber",
+      "manaCost": "{2}{B}{B}",
+      "type": "Creature — Human Mercenary",
+      "rarity": "Common",
+      "text": "When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Hypnotic Specter",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Specter",
+      "rarity": "Rare",
+      "text": "Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Hypnotic Specter",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Specter",
+      "rarity": "Rare",
+      "text": "Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Knight of Dusk",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Human Knight",
+      "rarity": "Uncommon",
+      "text": "{B}{B}: Destroy target creature blocking Knight of Dusk.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Looming Shade",
+      "manaCost": "{2}{B}",
+      "type": "Creature — Shade",
+      "rarity": "Common",
+      "text": "{B}: Looming Shade gets +1/+1 until end of turn.",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Lord of the Pit",
+      "manaCost": "{4}{B}{B}{B}",
+      "type": "Creature — Demon",
+      "rarity": "Rare",
+      "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.",
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "name": "Lord of the Pit",
+      "manaCost": "{4}{B}{B}{B}",
+      "type": "Creature — Demon",
+      "rarity": "Rare",
+      "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.",
+      "power": "7",
+      "toughness": "7"
+    },
+    {
+      "name": "Lord of the Undead",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Zombie",
+      "rarity": "Rare",
+      "text": "Other Zombie creatures get +1/+1.\n{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Mass of Ghouls",
+      "manaCost": "{3}{B}{B}",
+      "type": "Creature — Zombie Warrior",
+      "rarity": "Common",
+      "power": "5",
+      "toughness": "3"
+    },
+    {
+      "name": "Megrim",
+      "manaCost": "{2}{B}",
+      "type": "Enchantment",
+      "rarity": "Uncommon",
+      "text": "Whenever an opponent discards a card, Megrim deals 2 damage to that player."
+    },
+    {
+      "name": "Midnight Ritual",
+      "manaCost": "{X}{2}{B}",
+      "type": "Sorcery",
+      "rarity": "Rare",
+      "text": "Exile X target creature cards from your graveyard. For each creature card exiled this way, create a 2/2 black Zombie creature token."
+    },
+    {
+      "name": "Mind Rot",
+      "manaCost": "{2}{B}",
+      "type": "Sorcery",
+      "rarity": "Common",
+      "text": "Target player discards two cards."
+    },
+    {
+      "name": "Mortal Combat",
+      "manaCost": "{2}{B}{B}",
+      "type": "Enchantment",
+      "rarity": "Rare",
+      "text": "At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game."
+    },
+    {
+      "name": "Mortivore",
+      "manaCost": "{2}{B}{B}",
+      "type": "Creature — Lhurgoyf",
+      "rarity": "Rare",
+      "text": "Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.\n{B}: Regenerate Mortivore.",
+      "power": "*",
+      "toughness": "*"
+    },
+    {
+      "name": "Mortivore",
+      "manaCost": "{2}{B}{B}",
+      "type": "Creature — Lhurgoyf",
+      "rarity": "Rare",
+      "text": "Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.\n{B}: Regenerate Mortivore.",
+      "power": "*",
+      "toughness": "*"
+    },
+    {
+      "name": "Nantuko Husk",
+      "manaCost": "{2}{B}",
+      "type": "Creature — Zombie Insect",
+      "rarity": "Uncommon",
+      "text": "Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Nekrataal",
+      "manaCost": "{2}{B}{B}",
+      "type": "Creature — Human Assassin",
+      "rarity": "Uncommon",
+      "text": "First strike\nWhen Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "name": "Nekrataal",
+      "manaCost": "{2}{B}{B}",
+      "type": "Creature — Human Assassin",
+      "rarity": "Uncommon",
+      "text": "First strike\nWhen Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.",
+      "power": "2",
+      "toughness": "1"
+    },
+    {
+      "name": "Nightmare",
+      "manaCost": "{5}{B}",
+      "type": "Creature — Nightmare Horse",
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.",
+      "power": "*",
+      "toughness": "*"
+    },
+    {
+      "name": "Nightmare",
+      "manaCost": "{5}{B}",
+      "type": "Creature — Nightmare Horse",
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.",
+      "power": "*",
+      "toughness": "*"
+    },
+    {
+      "name": "No Rest for the Wicked",
+      "manaCost": "{1}{B}",
+      "type": "Enchantment",
+      "rarity": "Uncommon",
+      "text": "Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn."
+    },
+    {
+      "name": "Phage the Untouchable",
+      "manaCost": "{3}{B}{B}{B}{B}",
+      "type": "Legendary Creature — Avatar Minion",
+      "rarity": "Rare",
+      "text": "When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.\nWhenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.\nWhenever Phage deals combat damage to a player, that player loses the game.",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Phyrexian Rager",
+      "manaCost": "{2}{B}",
+      "type": "Creature — Phyrexian Horror",
+      "rarity": "Common",
+      "text": "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Plague Beetle",
+      "manaCost": "{B}",
+      "type": "Creature — Insect",
+      "rarity": "Common",
+      "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Plague Beetle",
+      "manaCost": "{B}",
+      "type": "Creature — Insect",
+      "rarity": "Common",
+      "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Plague Wind",
+      "manaCost": "{7}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Rare",
+      "text": "Destroy all creatures you don't control. They can't be regenerated."
+    },
+    {
+      "name": "Rain of Tears",
+      "manaCost": "{1}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Destroy target land."
+    },
+    {
+      "name": "Ravenous Rats",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Rat",
+      "rarity": "Common",
+      "text": "When Ravenous Rats enters the battlefield, target opponent discards a card.",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Recover",
+      "manaCost": "{2}{B}",
+      "type": "Sorcery",
+      "rarity": "Common",
+      "text": "Return target creature card from your graveyard to your hand.\nDraw a card."
+    },
+    {
+      "name": "Relentless Rats",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Rat",
+      "rarity": "Uncommon",
+      "text": "Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.\nA deck can have any number of cards named Relentless Rats.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Royal Assassin",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Human Assassin",
+      "rarity": "Rare",
+      "text": "{T}: Destroy target tapped creature.",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Scathe Zombies",
+      "manaCost": "{2}{B}",
+      "type": "Creature — Zombie",
+      "rarity": "Common",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Sengir Vampire",
+      "manaCost": "{3}{B}{B}",
+      "type": "Creature — Vampire",
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Sengir Vampire",
+      "manaCost": "{3}{B}{B}",
+      "type": "Creature — Vampire",
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Severed Legion",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Zombie",
+      "rarity": "Common",
+      "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Severed Legion",
+      "manaCost": "{1}{B}{B}",
+      "type": "Creature — Zombie",
+      "rarity": "Common",
+      "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Sleeper Agent",
+      "manaCost": "{B}",
+      "type": "Creature — Phyrexian Minion",
+      "rarity": "Rare",
+      "text": "When Sleeper Agent enters the battlefield, target opponent gains control of it.\nAt the beginning of your upkeep, Sleeper Agent deals 2 damage to you.",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Soul Feast",
+      "manaCost": "{3}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Target player loses 4 life and you gain 4 life."
+    },
+    {
+      "name": "Spineless Thug",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Phyrexian Zombie Mercenary",
+      "rarity": "Common",
+      "text": "Spineless Thug can't block.",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Stronghold Discipline",
+      "manaCost": "{2}{B}{B}",
+      "type": "Sorcery",
+      "rarity": "Uncommon",
+      "text": "Each player loses 1 life for each creature they control."
+    },
+    {
+      "name": "Terror",
+      "manaCost": "{1}{B}",
+      "type": "Instant",
+      "rarity": "Common",
+      "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated."
+    },
+    {
+      "name": "Thrull Surgeon",
+      "manaCost": "{1}{B}",
+      "type": "Creature — Thrull",
+      "rarity": "Uncommon",
+      "text": "{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery.",
+      "power": "1",
+      "toughness": "1"
+    },
+    {
+      "name": "Underworld Dreams",
+      "manaCost": "{B}{B}{B}",
+      "type": "Enchantment",
+      "rarity": "Rare",
+      "text": "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player."
+    },
+    {
+      "name": "Unholy Strength",
+      "manaCost": "{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +2/+1."
+    },
+    {
+      "name": "Unholy Strength",
+      "manaCost": "{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +2/+1."
+    },
+    {
+      "name": "Vampire Bats",
+      "manaCost": "{B}",
+      "type": "Creature — Bat",
+      "rarity": "Common",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn.",
+      "power": "0",
+      "toughness": "1"
+    },
+    {
+      "name": "Vampire Bats",
+      "manaCost": "{B}",
+      "type": "Creature — Bat",
+      "rarity": "Common",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate no more than twice each turn.",
+      "power": "0",
+      "toughness": "1"
+    },
+    {
+      "name": "Composite Golem",
+      "manaCost": "{6}",
+      "type": "Artifact Creature — Golem",
+      "rarity": "Uncommon",
+      "text": "Sacrifice Composite Golem: Add {W}{U}{B}{R}{G}.",
+      "power": "4",
+      "toughness": "4"
+    },
+    {
+      "name": "Legacy Weapon",
+      "manaCost": "{7}",
+      "type": "Legendary Artifact",
+      "rarity": "Rare",
+      "text": "{W}{U}{B}{R}{G}: Exile target permanent.\nIf Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead."
+    },
+    {
+      "name": "Caves of Koilos",
+      "type": "Land",
+      "rarity": "Rare",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you."
+    },
+    {
+      "name": "Llanowar Wastes",
+      "type": "Land",
+      "rarity": "Rare",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you."
+    },
+    {
+      "name": "Spawning Pool",
+      "type": "Land",
+      "rarity": "Uncommon",
+      "text": "Spawning Pool enters the battlefield tapped.\n{T}: Add {B}.\n{1}{B}: Spawning Pool becomes a 1/1 black Skeleton creature with \"{B}: Regenerate this creature\" until end of turn. It's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+    },
+    {
+      "name": "Spawning Pool",
+      "type": "Land",
+      "rarity": "Uncommon",
+      "text": "Spawning Pool enters the battlefield tapped.\n{T}: Add {B}.\n{1}{B}: Spawning Pool becomes a 1/1 black Skeleton creature with \"{B}: Regenerate this creature\" until end of turn. It's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+    },
+    {
+      "name": "Sulfurous Springs",
+      "type": "Land",
+      "rarity": "Rare",
+      "text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you."
+    },
+    {
+      "name": "Underground River",
+      "type": "Land",
+      "rarity": "Rare",
+      "text": "{T}: Add {C}.\n{T}: Add {U} or {B}. Underground River deals 1 damage to you."
+    },
+    {
+      "name": "Swamp",
+      "type": "Basic Land — Swamp",
+      "rarity": "Common",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Swamp",
+      "type": "Basic Land — Swamp",
+      "rarity": "Common",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Swamp",
+      "type": "Basic Land — Swamp",
+      "rarity": "Common",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Swamp",
+      "type": "Basic Land — Swamp",
+      "rarity": "Common",
+      "text": "({T}: Add {B}.)"
+    },
+    {
+      "name": "Animate Dead",
+      "manaCost": "{1}{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Uncommon",
+      "text": "Enchant creature card in a graveyard\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Animate Dead.\" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0."
+    },
+    {
+      "name": "Bad Moon",
+      "manaCost": "{1}{B}",
+      "type": "Enchantment",
+      "rarity": "Rare",
+      "text": "Black creatures get +1/+1."
+    },
+    {
+      "name": "Black Knight",
+      "manaCost": "{B}{B}",
+      "type": "Creature — Human Knight",
+      "rarity": "Uncommon",
+      "text": "First strike (This creature deals combat damage before creatures without first strike.)\nProtection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)",
+      "power": "2",
+      "toughness": "2"
+    },
+    {
+      "name": "Bog Wraith",
+      "manaCost": "{3}{B}",
+      "type": "Creature — Wraith",
+      "rarity": "Uncommon",
+      "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+      "power": "3",
+      "toughness": "3"
+    },
+    {
+      "name": "Contract from Below",
+      "manaCost": "{B}",
+      "type": "Sorcery",
+      "rarity": "Rare",
+      "text": "Remove Contract from Below from your deck before playing if you're not playing for ante.\nDiscard your hand, ante the top card of your library, then draw seven cards."
+    },
+    {
+      "name": "Cursed Land",
+      "manaCost": "{2}{B}{B}",
+      "type": "Enchantment — Aura",
+      "rarity": "Uncommon",
+      "text": "Enchant land\nAt the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player."
+    },
+    {
+      "name": "Dark Ritual",
+      "manaCost": "{B}",
+      "type": "Instant",
+      "rarity": "Common",
+      "text": "Add {B}{B}{B}."
+    }
+  ]
+}
